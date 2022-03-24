@@ -1,0 +1,2 @@
+# greedySnake
+simple webpack +  typescript
